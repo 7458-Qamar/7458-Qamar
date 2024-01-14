@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/qamarme59905045" target="blank"><img src="https://img.shields.io/twitter/follow/qamarme59905045?logo=twitter&style=for-the-badge" alt="qamarme59905045" /></a> </p>
 
-- 🌱 I’m currently learning **Power BI and C++**
+- 🌱 I’m currently learning **Python**
   <p align="left">
     <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="30" height="30"/>
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="30" height="30"/>
