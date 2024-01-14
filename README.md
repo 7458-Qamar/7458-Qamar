@@ -7,9 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/qamarme59905045" target="blank"><img src="https://img.shields.io/twitter/follow/qamarme59905045?logo=twitter&style=for-the-badge" alt="qamarme59905045" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Power BI and C++**
+  <p align="left">
+    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="30" height="30"/>
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="30" height="30"/>
+    <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="30" height="30"/>
+    <img src="https://img.icons8.com/ios/50/000000/mysql-logo.png" alt="MySQL" width="30" height="30"/>
+  </p>
 
-- 💬 Ask me about **Ms Excel, Power Query, Power BI, SQL**
+- 💬 Ask me about **Power BI, SQL, C++**
 
 - 📫 How to reach me **qamarmehmood533@gmail.com**
 
