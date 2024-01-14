@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Qamar Mehmood</h1>
-<h3 align="center">Excel expert with advanced expertise in utilizing Microsoft Excel to extract, analyze, and interpret data.</h3>
+<h3 align="center">Student Ambassador @ Microsoft | Business Analytics Student | Data Analyst | Report writer | Marketing Strategist.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7458-qamar&label=Profile%20views&color=0e75b6&style=flat" alt="7458-qamar" /> </p>
 
