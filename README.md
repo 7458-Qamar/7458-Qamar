@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7458-qamar" alt="7458-qamar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/qamarme59905045" target="blank"><img src="https://img.shields.io/twitter/follow/qamarme59905045?logo=twitter&style=for-the-badge" alt="qamarme59905045" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/qamar-mehmood-a47bb625b" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qamar-mehmood-a47bb625b" height="30" width="40" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 
   <p align="left">
     <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="30" height="30"/>
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="30" height="30"/>
@@ -21,8 +21,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/qamarme59905045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="qamarme59905045" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/qamar-mehmood-a47bb625b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qamar-mehmood-a47bb625b" height="30" width="40" /></a>
   <a href="https://www.youtube.com/c/mr tutor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mr tutor" height="30" width="40" /></a>
   <a href="https://www.instagram.com/code_with_qamar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code_with_qamar" height="30" width="40" /></a>
 </p>
