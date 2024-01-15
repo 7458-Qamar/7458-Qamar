@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7458-qamar" alt="7458-qamar" /></a> </p>
 
-<p align="left"> <a href="https://linkedin.com/in/qamar-mehmood-a47bb625b" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qamar-mehmood-a47bb625b" height="30" width="40" /></a> </p>
-
 - 
   <p align="left">
     <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="30" height="30"/>
