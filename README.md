@@ -29,7 +29,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/qamar-mehmood-a47bb625b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qamar-mehmood-a47bb625b" height="30" width="40" /></a>
   <a href="https://www.youtube.com/c/mr tutor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mr tutor" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/code_with_qamar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code_with_qamar" height="30" width="40" /></a>
+  <a href="https://[www.instagram.com/code_with_qamar/](https://www.instagram.com/qamar_mehmood_/?igsh=MWx1d3ZvdXllMXV0Yw%3D%3D#)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code_with_qamar" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=7458-qamar&show_icons=true&locale=en&layout=compact" alt="7458-qamar" /></p>
