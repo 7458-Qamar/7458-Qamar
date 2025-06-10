@@ -5,38 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7458-qamar" alt="7458-qamar" /></a> </p>
 
-<!-- Calendar View Selector -->
-<h3 align="center">📅 Calendar View</h3>
-<p align="center">
-  <a href="#daily-view">Daily</a> |
-  <a href="#weekly-view">Weekly</a> |
-  <a href="#monthly-view">Monthly</a> |
-  <a href="#yearly-view">Yearly</a>
-</p>
-
-<!-- Daily View -->
-<h3 id="daily-view" align="center">📆 Daily View</h3>
-<div align="center">
-  <img src="https://via.placeholder.com/800x200?text=Daily+Calendar+View" alt="Daily Calendar">
-</div>
-
-<!-- Weekly View -->
-<h3 id="weekly-view" align="center">📅 Weekly View</h3>
-<div align="center">
-  <img src="https://via.placeholder.com/800x400?text=Weekly+Calendar+View" alt="Weekly Calendar">
-</div>
-
-<!-- Monthly View -->
-<h3 id="monthly-view" align="center">🗓 Monthly View</h3>
-<div align="center">
-  <img src="https://via.placeholder.com/800x600?text=Monthly+Calendar+View" alt="Monthly Calendar">
-</div>
-
-<!-- Yearly View -->
-<h3 id="yearly-view" align="center">📅 Yearly View</h3>
-<div align="center">
-  <img src="https://via.placeholder.com/800x300?text=Yearly+Calendar+View" alt="Yearly Calendar">
-</div>
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="30" height="30"/>
