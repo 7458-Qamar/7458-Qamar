@@ -17,7 +17,7 @@
   <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" width="30" height="30"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" width="30" height="30"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="30" height="30"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel.png" alt="Excel" width="30" height="30"/>
+ <img src="https://img.icons8.com/color/48/000000/ms-excel.png" alt="Excel" width="30" height="30"/>
   <img src="https://img.icons8.com/color/48/google-sheets.png" alt="Google Sheets" width="30" height="30"/>
 </p>
 
