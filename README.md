@@ -5,10 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7458-qamar" alt="7458-qamar" /></a> </p>
 
-<h3 align="left">Experience & Skills:</h3>
-<p>
-  ✔ Data Analytics<br>
-  ✔ Business Analytics<br>
+## 💼 Experience & Key Skills
+
+```text
+✔ Business Intelligence      ✔ Business Modeling
+✔ Data Visualization         ✔ ETL & Data Modeling
+✔ Storytelling with Data     ✔ Dashboard Design
 </p>
 
 <p align="left">
