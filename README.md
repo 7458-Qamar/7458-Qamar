@@ -1,19 +1,27 @@
 <h1 align="center">Hello 👋, I'm Qamar Mehmood</h1>
-<h3 align="center"> Business Analyst | Data Analyst.</h3>
+<h3 align="center"> Business Analyst | Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7458-qamar&label=Profile%20views&color=0e75b6&style=flat" alt="7458-qamar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7458-qamar" alt="7458-qamar" /></a> </p>
 
-- 
-  <p align="left">
-    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="30" height="30"/>
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="30" height="30"/>
-    <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="30" height="30"/>
-    <img src="https://img.icons8.com/ios/50/000000/mysql-logo.png" alt="MySQL" width="30" height="30"/>
-  </p>
+<h3 align="left">Experience & Skills:</h3>
+<p>
+  ✔ Data Analytics<br>
+  ✔ Business Analytics<br>
+</p>
 
-- 💬 Ask me about **Power BI, SQL, C++**
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="30" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="30" height="30"/>
+  <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" width="30" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" width="30" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="30" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel.png" alt="Excel" width="30" height="30"/>
+  <img src="https://img.icons8.com/color/48/google-sheets.png" alt="Google Sheets" width="30" height="30"/>
+</p>
+
+- 💬 Ask me about **Power BI, SQL (MySQL/PostgreSQL/SQL Server), Python, Data Analytics**
 
 - 📫 How to reach me **qamarmehmood533@gmail.com**
 
