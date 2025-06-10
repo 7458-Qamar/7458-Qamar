@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7458-qamar" alt="7458-qamar" /></a> </p>
 
+<a href="https://github.com/7458-Qamar?tab=followers">
+    <img src="https://img.shields.io/github/followers/7458-Qamar?label=Follow%20Me&style=social" alt="Follow Me">
+</a>
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="30" height="30"/>
