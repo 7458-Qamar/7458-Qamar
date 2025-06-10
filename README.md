@@ -37,3 +37,20 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=7458-qamar&show_icons=true&locale=en" alt="7458-qamar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7458-qamar&" alt="7458-qamar" /></p>
+
+<h2 align="center">🌟 Featured Repositories 🌟</h2>
+
+<p align="center">
+  <a href="https://github.com/7458-Qamar/Sales">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=7458-Qamar&repo=Sales&theme=dark" alt="Sales Analysis" />
+  </a>
+  <a href="https://github.com/7458-Qamar/walmart_Sales_analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=7458-Qamar&repo=walmart_Sales_analysis&theme=dark" alt="Walmart Sales Analysis" />
+  </a>
+  <a href="https://github.com/7458-Qamar/Bank_Data_Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=7458-Qamar&repo=Bank_Data_Analysis&theme=dark" alt="Bank Data Analysis" />
+  </a>
+  <a href="https://github.com/7458-Qamar/Super_International_Market">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=7458-Qamar&repo=Super_International_Market&theme=dark" alt="Super Market Analysis" />
+  </a>
+</p>
