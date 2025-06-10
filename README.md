@@ -5,11 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7458-qamar" alt="7458-qamar" /></a> </p>
 
-<h3 align="left">Experience & Skills:</h3>
-<p>
-  ✔ Data Analytics<br>
-  ✔ Business Analytics<br>
-</p>
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="30" height="30"/>
