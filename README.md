@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Qamar Mehmood</h1>
-<h3 align="center"> Business Analyst | Data Analyst</h3>
+<h3 align="center">Business Analyst • Data Analyst • Tech Educator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7458-qamar&label=Profile%20views&color=0e75b6&style=flat" alt="7458-qamar" /> </p>
 
