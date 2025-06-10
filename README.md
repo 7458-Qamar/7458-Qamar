@@ -1,16 +1,14 @@
 <h1 align="center">Hello 👋, I'm Qamar Mehmood</h1>
-<h3 align="center">Business Analyst • Data Analyst • Tech Educator</h3>
+<h3 align="center"> Business Analyst | Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7458-qamar&label=Profile%20views&color=0e75b6&style=flat" alt="7458-qamar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7458-qamar" alt="7458-qamar" /></a> </p>
 
-## 💼 Experience & Key Skills
-
-```text
-✔ Business Intelligence      ✔ Business Modeling
-✔ Data Visualization         ✔ ETL & Data Modeling
-✔ Storytelling with Data     ✔ Dashboard Design
+<h3 align="left">Experience & Skills:</h3>
+<p>
+  ✔ Data Analytics<br>
+  ✔ Business Analytics<br>
 </p>
 
 <p align="left">
@@ -22,6 +20,18 @@
   <img src="https://img.icons8.com/color/48/000000/ms-excel.png" alt="Excel" width="30" height="30"/>
   <img src="https://img.icons8.com/color/48/google-sheets.png" alt="Google Sheets" width="30" height="30"/>
 </p>
+
+<h3 align="left">💼 Experience & Key Skills</h3>
+
+<pre>
+✔ Business Intelligence       ✔ Business Modeling  
+✔ Data Visualization          ✔ Data Modeling  
+✔ Storytelling with Data      ✔ Dashboard Design  
+✔ SQL (PostgreSQL, MySQL)     ✔ Python (Pandas, NumPy, Matplotlib, Beautiful Soup)  
+✔ Power BI (DAX, Power Query) ✔ Excel (Pivot Tables, VBA)  
+✔ Data-Driven Decision Making ✔ Data Cleaning & Transformation  
+✔ KPI Reporting               ✔ Problem Solving with Data  
+</pre>
 
 - 💬 Ask me about **Power BI, SQL (MySQL/PostgreSQL/SQL Server), Python, Data Analytics**
 
